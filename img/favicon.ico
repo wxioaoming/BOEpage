@@ -1,0 +1,583 @@
+<!DOCTYPE html><html><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <!--<meta name="og:title" content="高清显示屏,显示器,智慧系统,健康服务,BOE,京东方官网">-->
+    <title>404</title>
+    <link rel="stylesheet" href="https://www.boe.com/html/boesite-lib/library/bootstrap.min.css">
+    <link rel="stylesheet" href="https://www.boe.com/html/boesite-lib/css/index/index.css">
+    <link rel="stylesheet" href="https://www.boe.com/html/boesite-lib/css/dmtzx/media.css">
+<link rel="icon" href="/boe-cms-console/_images/favicon.ico"><style></style><style>#data_base_id,.data_unit{display:none;}</style></head>
+<body style="width: auto;"><h1 style="display:none;">404页面</h1>
+<!-- 导航-->
+<div id="clear-nav" class="hidden-lg hidden-md hidden-sm" style="height: 90px; background: rgba(0, 0, 0, 0);"></div>
+<div id="header"><div>
+	<style>
+	#downBOEgw{width:100%;height:46px;background:rgb(77, 77, 79);}
+	#downBOEgw ul li{list-style: none;float: left;}
+	#downBOEgw ul li:nth-child(1){ width:10%;position: absolute;left: 0;top: 0;}
+	#downBOEgw ul li:nth-child(1) img{width:80%;line-height: 46px;margin: 8px;}
+	#downBOEgw ul li:nth-child(2) img{width:9%;margin:12px;position: absolute;top: -6%;left: 10%;}
+	#downBOEgw ul li:nth-child(2) span{position: absolute;top: 12%;left: 24%;font-size: 14px;color:#FFFFFF;}
+	#downBOEgw ul li:nth-child(3) div{width: 24%;height: 34%;position: absolute;left: 72%;font-size: 14px;background: #0091af;border-radius: 5px;top: 4%;line-height: 34%;text-align: center;}
+	#downBOEgw ul li:nth-child(3) div span{color: #ffffff;position: absolute;top: 30%;left: 0%;width: 100%;line-height: 100%;}
+	</style>
+<div class="container-fluid index-shadow-bottom nav-parent-box parent-fixed">
+    <div id="downBOEgw" style="display:none">
+    	<ul>
+    		<li>
+    			<img class="closeDownBOEgw" src="https://www.boe.com/html/boesite-lib/images/g1/index/icon-close-banner.png">
+    		</li>
+    		<li>
+    			<img src="https://www.boe.com/html/boesite-lib/images/g1/index/BOEcenter.png"><span>京东方官网APP</span>
+    		</li>
+    		<li>
+    			<div id="boegwtop"><span>打开APP</span></div>
+    		</li>
+    	</ul>
+    </div>
+    <div class="container nav-box">
+        <div class="row nav">
+            <div class="col-lg-6 col-md-6 col-sm-5 col-xs-3">
+                <ul class="row list-unstyled list-inline text-center  nav-list1 list-navbar"><li class="col-lg-3 col-md-3 col-sm-3 text-left "><a href="/index/pi.html"><span class="logo header-logo"></span></a></li> <li class="col-lg-2 col-md-2 col-sm-2 bg hidden-xs hidden-sm list1-li-list nav-list1-hover"><a href="javascript:void(0)" class="nav-size">产品与服务</a> <span class="nav-hover"></span> <div class="container-fluid " style="width: 1349px; display: none;"><div class="container nav-menu"><ul class="row list-unstyled text-left  header-9-20"><li class="col-lg-3 col-md-4 col-lg-offset-1"><ul class="row list-unstyled text-left in-nav-menu"><li class="clearfix "></li> <li class="col-lg-12 col-md-12 col-sm-12 h4 nav-menu-after sm-menu-after"><a href="javascript:void(0)" class="three-size">端口器件</a></li> <li class="col-lg-12 col-md-12 col-sm-6 two-menu-list"><ul class="row list-unstyled text-left"><li class="col-lg-12 col-md-12 col-sm-12 nav-menu-list"><a href="/product/dkqj/xsycg/" class="nav-size">显示与传感器件</a> <ul class="row list-unstyled nav-menu-menu"><li class="col-lg-12 col-md-12 col-sm-12"><a href="/product/dkqj/xsycg/" class="nav-size">TFT-LCD</a></li><li class="col-lg-12 col-md-12 col-sm-12"><a href="/product/dkqj/xsycg/?1" class="nav-size">AMOLED</a></li><li class="col-lg-12 col-md-12 col-sm-12"><a href="/product/dkqj/xsycg/?2" class="nav-size">微显示</a></li><li class="col-lg-12 col-md-12 col-sm-12"><a href="/product/dkqj/xsycg/?3" class="nav-size">传感器</a></li> <li class="after"></li></ul></li></ul></li><li class="col-lg-12 col-md-12 col-sm-6 two-menu-list"><ul class="row list-unstyled text-left"><li class="col-lg-12 col-md-12 col-sm-12 nav-menu-list"><a href="/product/dkqj/cgq/" class="nav-size">传感器及解决方案</a> <ul class="row list-unstyled nav-menu-menu"><li class="col-lg-12 col-md-12 col-sm-12"><a href="/product/dkqj/cgq/ylyx/" class="nav-size">医疗影像</a></li><li class="col-lg-12 col-md-12 col-sm-12"><a href="/product/dkqj/cgq/zwsb/" class="nav-size">指纹识别</a></li><li class="col-lg-12 col-md-12 col-sm-12"><a href="/product/dkqj/cgq/swjc/" class="nav-size">生物检测</a></li><li class="col-lg-12 col-md-12 col-sm-12"><a href="/product/dkqj/cgq/zhsc/" class="nav-size">智慧视窗</a></li> <li class="after"></li></ul></li></ul></li></ul></li><li class="col-lg-3 col-md-4 col-lg-offset-1"><ul class="row list-unstyled text-left in-nav-menu"><li class="clearfix "></li> <li class="col-lg-12 col-md-12 col-sm-12 h4 nav-menu-after sm-menu-after"><a href="javascript:void(0)" class="three-size">智慧物联</a></li> <li class="col-lg-12 col-md-12 col-sm-6 two-menu-list"><ul class="row list-unstyled text-left"><li class="col-lg-12 col-md-12 col-sm-12 nav-menu-list"><a href="/product/zhwl/iot/" class="nav-size">IoT解决方案</a> <ul class="row list-unstyled nav-menu-menu"> <li class="after"></li></ul></li></ul></li><li class="col-lg-12 col-md-12 col-sm-6 two-menu-list"><ul class="row list-unstyled text-left"><li class="col-lg-12 col-md-12 col-sm-12 nav-menu-list"><a href="/product/zhwl/zzfw/" class="nav-size">智造服务</a> <ul class="row list-unstyled nav-menu-menu"> <li class="after"></li></ul></li></ul></li><li class="col-lg-12 col-md-12 col-sm-6 two-menu-list"><ul class="row list-unstyled text-left"><li class="col-lg-12 col-md-12 col-sm-12 nav-menu-list"><a href="/product/zhwl/szys/" class="nav-size">数字艺术</a> <ul class="row list-unstyled nav-menu-menu"> <li class="after"></li></ul></li></ul></li></ul></li><li class="col-lg-3 col-md-4 col-lg-offset-1"><ul class="row list-unstyled text-left in-nav-menu"><li class="clearfix "></li> <li class="col-lg-12 col-md-12 col-sm-12 h4 nav-menu-after sm-menu-after"><a href="/product/zhyg/" class="three-size">智慧医工</a></li> <li class="col-lg-12 col-md-12 col-sm-6 two-menu-list"><ul class="row list-unstyled text-left"><li class="col-lg-12 col-md-12 col-sm-12 nav-menu-list"><a href="/product/zhyg/" class="nav-size">移动健康</a> <ul class="row list-unstyled nav-menu-menu"><li class="col-lg-12 col-md-12 col-sm-12"><a href="/product/zhyg/ydjk/cpjj/" class="nav-size">产品解决方案</a></li> <li class="after"></li></ul></li></ul></li><li class="col-lg-12 col-md-12 col-sm-6 two-menu-list"><ul class="row list-unstyled text-left"><li class="col-lg-12 col-md-12 col-sm-12 nav-menu-list"><a href="/product/zhyg/?1" class="nav-size">健康服务</a> <ul class="row list-unstyled nav-menu-menu"><li class="col-lg-12 col-md-12 col-sm-12"><a href="/product/zhyg/jkfw/szyy/" class="nav-size">数字医院</a></li><li class="col-lg-12 col-md-12 col-sm-12"><a href="/product/zhyg/jkfw/szrt/" class="nav-size">数字人体</a></li><li class="col-lg-12 col-md-12 col-sm-12"><a href="/product/zhyg/jkfw/zsyx/" class="nav-size">再生医学</a></li><li class="col-lg-12 col-md-12 col-sm-12"><a href="/product/zhyg/jkfw/jjfa/" class="nav-size">解决方案</a></li> <li class="after"></li></ul></li></ul></li></ul></li></ul></div></div></li><li class="col-lg-2 col-md-2 col-sm-2 bg hidden-xs hidden-sm list1-li-list nav-list1-hover"><a href="javascript:trackFn('header-innovate','/cxkj/')" class="nav-size">创新科技</a> <span class="nav-hover"></span> <div class="container-fluid " style="width: 1349px; display: none;"><div class="container nav-menu"><ul class="row list-unstyled text-left  header-9-20"><li class="col-lg-3 col-md-4 col-lg-offset-1"><ul class="row list-unstyled text-left in-nav-menu"><li class="clearfix "></li> <li class="col-lg-12 col-md-12 col-sm-12 h4 nav-menu-after sm-menu-after"><a href="javascript:trackFn('header-innovate_boeInnovate','/cxkj/boecx/')" class="three-size">BOE创新</a></li> </ul></li><li class="col-lg-3 col-md-4 col-lg-offset-1"><ul class="row list-unstyled text-left in-nav-menu"><li class="clearfix "></li> <li class="col-lg-12 col-md-12 col-sm-12 h4 nav-menu-after sm-menu-after"><a href="javascript:trackFn('header-innovate_know','/cxkj/kjzh/')" class="three-size">科技知乎</a></li> </ul></li><li class="col-lg-3 col-md-4 col-lg-offset-1"><ul class="row list-unstyled text-left in-nav-menu"><li class="clearfix "></li> <li class="col-lg-12 col-md-12 col-sm-12 h4 nav-menu-after sm-menu-after"><a href="javascript:trackFn('header-innovate_creative','#')" class="three-size">创新平台</a></li> <li class="col-lg-12 col-md-12 col-sm-6 two-menu-list"><ul class="row list-unstyled text-left"><li class="col-lg-12 col-md-12 col-sm-12 nav-menu-list"><a href="javascript:trackFn('header-innovate_xtcx','/cxkj/xtcx/')" class="nav-size">协同创新平台</a> <ul class="row list-unstyled nav-menu-menu"> <li class="after"></li></ul></li></ul></li><li class="col-lg-12 col-md-12 col-sm-6 two-menu-list"><ul class="row list-unstyled text-left"><li class="col-lg-12 col-md-12 col-sm-12 nav-menu-list"><a href="javascript:trackFn('header-innovate_creative','/cxkj/cxkj/')" class="nav-size">创想空间</a> <ul class="row list-unstyled nav-menu-menu"> <li class="after"></li></ul></li></ul></li></ul></li></ul></div></div></li> <li class="col-lg-2 col-md-2 col-sm-2 bg hidden-xs hidden-sm  list1-li-list nav-list1-hover header-nav-last"><a href="javascript:trackFn('header-boeNews','/news/')" class="nav-size">新闻中心</a> <span class="nav-hover"></span></li><li class="col-lg-2 col-md-2 col-sm-2 bg hidden-xs hidden-sm  list1-li-list nav-list1-hover header-nav-last"><a href="javascript:trackFn('header-mall','https://www.boemall.cn')" class="nav-size">BOE商城</a> <span class="nav-hover"></span></li><li class="col-lg-2 col-md-2 col-sm-2 bg hidden-xs hidden-sm  list1-li-list nav-list1-hover header-nav-last hidden-lg hidden-md"><a href="javascript:trackFn('header-mall-xs','https://m.boemall.cn')" class="nav-size">BOE商城</a> <span class="nav-hover"></span></li></ul>
+            </div>
+            <div class="col-lg-5  col-md-5 col-sm-7 col-lg-offset-1  col-md-offset-1  col-xs-9 sm-nav-box">
+                <ul class="row list-unstyled list-inline text-left nav-list2 hidden-xs  hidden-sm vue-navBar-right"><li><a href="javascript:trackFn('header-about','/about/')" class="nav-size">关于我们</a></li><li><a href="javascript:trackFn('header-investor','/tzzgx/')" class="nav-size">投资者关系</a></li><li><a href="javascript:trackFn('header-join','/join/')" class="nav-size">加入我们</a></li><li><a href="javascript:trackFn('header-multimedia','/dmtzx/')" class="nav-size">多媒体中心</a></li></ul>
+                <ul class="row list-unstyled list-inline nav-list3">
+                    <li class="col-lg-7  col-md-7 col-sm-7 col-xs-7 xs-search">
+                        <div class="search-box">
+                            <input type="text" class="form-control nav-search" aria-describedby="basic-addon2" placeholder="请输入关键词" id="_q">
+                            <!--<a href="javascript:trackFn('search-btn','/newsearch/pn.html?_q='+document.getElementById('_q').value);"><span id="basic-addon2"></span></a>-->
+                            <a id="goHref"><span id="basic-addon2"></span></a>
+                        </div>
+                    </li>
+                    <li class="col-lg-4  col-md-4 col-sm-5 col-lg-offset-1 col-md-offset-1 col-xs-5">
+                        <!-- 点击下拉的按钮-->
+                        <div class="xs-list-box hidden-lg hidden-md  ">
+                            <i class="i-1" aria-hidden="true"></i>
+                            <i class="i-2"></i>
+                        </div>
+                        <div class="text-center lg-lang  hidden-xs hidden-sm">
+                          <a href="javascript:trackFn('header-en','/en/')">English</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 手机/pad 端-->
+<div class="container-fluid hidden-lg hidden-md xs-menu-list nav-parent-box ">
+        <ul class="row list-unstyled xs-list list-navbar2 vue-navBar-right listDown"><li class="col-xs-12"><div class="clickObj"><a href="javascript:void(0)">产品与服务</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-2"><li class="col-xs-12"><div class="clickObj"><a href="javascript:void(0)">端口器件</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-3"><li class="col-xs-12"><div class="clickObj"><a href="/product/dkqj/xsycg/">显示与传感器件</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-4"><li class="col-xs-12"><div class="clickObj"><a href="/product/dkqj/xsycg/">TFT-LCD</a></div></li><li class="col-xs-12"><div class="clickObj"><a href="/product/dkqj/xsycg/?1">AMOLED</a></div></li><li class="col-xs-12"><div class="clickObj"><a href="/product/dkqj/xsycg/?2">微显示</a></div></li><li class="col-xs-12"><div class="clickObj"><a href="/product/dkqj/xsycg/?3">传感器</a></div></li></ul></li><li class="col-xs-12"><div class="clickObj"><a href="/product/dkqj/cgq/">传感器及解决方案</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-4"><li class="col-xs-12"><div class="clickObj"><a href="/product/dkqj/cgq/ylyx/">医疗影像</a></div></li><li class="col-xs-12"><div class="clickObj"><a href="/product/dkqj/cgq/zwsb/">指纹识别</a></div></li><li class="col-xs-12"><div class="clickObj"><a href="/product/dkqj/cgq/swjc/">生物检测</a></div></li><li class="col-xs-12"><div class="clickObj"><a href="/product/dkqj/cgq/zhsc/">智慧视窗</a></div></li></ul></li></ul></li><li class="col-xs-12"><div class="clickObj"><a href="javascript:void(0)">智慧物联</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-3"><li class="col-xs-12"><div class="clickObj"><a href="/product/zhwl/iot/">IoT解决方案</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-4"></ul></li><li class="col-xs-12"><div class="clickObj"><a href="/product/zhwl/zzfw/">智造服务</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-4"></ul></li><li class="col-xs-12"><div class="clickObj"><a href="/product/zhwl/szys/">数字艺术</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-4"></ul></li></ul></li><li class="col-xs-12"><div class="clickObj"><a href="/product/zhyg/">智慧医工</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-3"><li class="col-xs-12"><div class="clickObj"><a href="/product/zhyg/">移动健康</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-4"><li class="col-xs-12"><div class="clickObj"><a href="/product/zhyg/ydjk/cpjj/">产品解决方案</a></div></li></ul></li><li class="col-xs-12"><div class="clickObj"><a href="/product/zhyg/?1">健康服务</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-4"><li class="col-xs-12"><div class="clickObj"><a href="/product/zhyg/jkfw/szyy/">数字医院</a></div></li><li class="col-xs-12"><div class="clickObj"><a href="/product/zhyg/jkfw/szrt/">数字人体</a></div></li><li class="col-xs-12"><div class="clickObj"><a href="/product/zhyg/jkfw/zsyx/">再生医学</a></div></li><li class="col-xs-12"><div class="clickObj"><a href="/product/zhyg/jkfw/jjfa/">解决方案</a></div></li></ul></li></ul></li></ul></li><li class="col-xs-12"><div class="clickObj"><a href="javascript:trackFn('header-innovate','/cxkj/')">创新科技</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-2"><li class="col-xs-12"><div class="clickObj"><a href="javascript:trackFn('header-innovate_boeInnovate','/cxkj/boecx/')">BOE创新</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-3"></ul></li><li class="col-xs-12"><div class="clickObj"><a href="javascript:trackFn('header-innovate_know','/cxkj/kjzh/')">科技知乎</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-3"></ul></li><li class="col-xs-12"><div class="clickObj"><a href="javascript:trackFn('header-innovate_creative','#')">创新平台</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-3"><li class="col-xs-12"><div class="clickObj"><a href="javascript:trackFn('header-innovate_xtcx','/cxkj/xtcx/')">协同创新平台</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-4"></ul></li><li class="col-xs-12"><div class="clickObj"><a href="javascript:trackFn('header-innovate_creative','/cxkj/cxkj/')">创想空间</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-4"></ul></li></ul></li></ul></li> <li class="col-xs-12  xs-mall"><div class="clickObj"><a href="javascript:trackFn('header-boeNews','/news/')">新闻中心</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-2"><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/news/gsdt/">公司动态</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/news/mtsj/">媒体视角</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li></ul></li><li class="col-xs-12  xs-mall hidden-sm hidden-xs"><div class="clickObj"><a href="javascript:trackFn('header-mall','https://www.boemall.cn')">BOE商城</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-2"></ul></li><li class="col-xs-12  xs-mall"><div class="clickObj"><a href="javascript:trackFn('header-mall-xs','https://m.boemall.cn')">BOE商城</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-2"></ul></li> <li class="col-xs-12"><div class="clickObj"><a href="javascript:trackFn('header-about','/about/')">关于我们</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-2"><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/about/gsjs/">公司介绍</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/about/gltd/">管理团队</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/about/qyry/">企业荣誉</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/about/shzr/">社会责任</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/about/boeqq/">BOE全球</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li></ul></li><li class="col-xs-12"><div class="clickObj"><a href="javascript:trackFn('header-investor','/tzzgx/')">投资者关系</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-2"><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/tzzgx/gpxx/">股票信息</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/tzzgx/gsgg/">公司公告</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/tzzgx/cwxx/">财务信息</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/tzzgx/gszl/">公司治理</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/tzzgx/tzzfw/">投资者服务</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li></ul></li><li class="col-xs-12"><div class="clickObj"><a href="javascript:trackFn('header-join','/join/')">加入我们</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-2"><li class="col-xs-12"><div class="clickObj twoNavList"><a href="http://campus.boe.com/">校园招聘</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="http://career.boe.com/professionals">社会招聘</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="http://career.boe.com/global">海外招聘</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/join/ygcz/">员工成长</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/join/ygfl/">员工福利</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li></ul></li><li class="col-xs-12"><div class="clickObj"><a href="javascript:trackFn('header-multimedia','/dmtzx/')">多媒体中心</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div> <ul class="row list-unstyled xs-tier xs-tier-2"><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/dmtzx/gssp/">公司视频</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li><li class="col-xs-12"><div class="clickObj twoNavList"><a href="/dmtzx/boeshuo/">BOE说</a> <span class="glyphicon glyphicon-menu-down xs-tier-down"></span></div></li></ul></li> <li class="col-xs-12 language-box"><div class="clickObj twoNavList"><a href="javascript:trackFn('header-en','/en/')">English</a></div></li></ul>
+    </div>
+</div></div>
+<div class="container cry text-center text-size pctop pcbottom">
+    <img src="https://www.boe.com/html/boesite-lib/images/g1/index/404.png" alt="">
+    <h4 class="two-size">抱歉，页面没有找到！</h4>
+    <p class="pctop">似乎您寻找的页面已移动或者丢失了。。。</p>
+    <p>我们建议您返回官网首页进行浏览</p>
+   	<p align="center">
+		<b id="second">4</b>秒后回到主页
+	</p>
+	<h4 align="center"><a href="javascript:goBack()">点击返回主页</a></h4>
+</div>
+<!--footer-->
+<div id="footer"><div>
+    <!-- 在社交媒体上关注我们 -->
+    <div class="container-fluid weixin-bg">
+        <div class="container">
+            <div class="weixin-box">
+                <p class="footer-size">在社交媒体上关注我们 :</p>
+            <span class="row">
+                <a class="col-lg-6 col-sm-6 col-md-6 col-xs-6 xin-icon" href="javascript:void(0);">
+                    <img class="img2" src="https://www.boe.com/html/boesite-lib/images/g1/index/weixin-icon01.png" alt="">
+                    <img class="img1" src="https://www.boe.com/html/boesite-lib/images/g1/index/weixin-icon02.png" alt="">
+                </a>
+                <a class="col-lg-6 col-sm-6 col-md-6 col-xs-6 yl-icon hidden-xs" href="javascript:void(0);">
+                    <img class="img2" src="https://www.boe.com/html/boesite-lib/images/g1/index/yl.png" alt="">
+                    <img class="img1" src="https://www.boe.com/html/boesite-lib/images/g1/index/yl2.png" alt="">
+                </a>
+                <a class="col-lg-6 col-sm-6 col-md-6 col-xs-6 yl-icon hidden-sm hidden-lg hidden-md " href="http://www.linkedin.com/company/boe-technology-group/careers?trk=top_nav_careers">
+                    <img class="img2" src="https://www.boe.com/html/boesite-lib/images/g1/index/yl.png" alt="">
+                    <img class="img1" src="https://www.boe.com/html/boesite-lib/images/g1/index/yl2.png" alt="">
+                </a>
+            </span>
+            </div>
+        </div>
+        <div class="wx-code wx" style="left: 229.016px;">
+            <img src="https://www.boe.com/html/boesite-lib/images/g1/index/qrcode1.jpg" alt="">
+        </div>
+        <div class="wx-code yl hidden-xs" style="left: 277.016px;">
+            <img class="hidden-xs" src="https://www.boe.com/html/boesite-lib/images/g1/index/yleym.png" alt="">
+        </div>
+    </div>
+    <div class="container-fluid footer-box footer-size" style="padding-bottom:20px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-7 col-xs-12  center0926">
+                    <ul class="row list-unstyled footer-lilst1 footerList1"><li class="col-lg-3 col-md-3 col-sm-3 col-xs-12 footer1129-li"><div class="hidden-lg hidden-md hidden-sm footer1129-click"><a href="javascript:void(0);">产品与服务</a> <span class="glyphicon glyphicon-menu-down xs-tier-down yewei" style="display: block; line-height: 25px; text-align: center;"></span></div> <ul class="row list-unstyled footer1129-ul"><li class="footer1129-child"><a href="/product/dkqj/xsycg/">端口器件</a></li> <li class="footer1129-child"><a href="/product/zhwl/iot/">智慧物联</a></li><li class="footer1129-child"><a href="/product/zhyg/">智慧医工</a></li></ul></li><li class="col-lg-3 col-md-3 col-sm-3 col-xs-12 footer1129-li"><div class="hidden-lg hidden-md hidden-sm footer1129-click"><a href="javascript:trackFn('footer-Innovation','/cxkj/')">创新科技</a> <span class="glyphicon glyphicon-menu-down xs-tier-down yewei" style="display: block; line-height: 25px; text-align: center;"></span></div> <ul class="row list-unstyled footer1129-ul"><li class="footer1129-child"><a href="javascript:trackFn('footer-Innovation','/cxkj/boecx/')">BOE创新</a></li> <li class="footer1129-child"><a href="javascript:trackFn('footer-known','/cxkj/kjzh/')">科技知乎</a></li><li class="footer1129-child"><a href="javascript:trackFn('footer-creative','/cxkj/xtcx/')">协同创新平台</a></li><li class="footer1129-child"><a href="javascript:trackFn('footer-creative','/cxkj/cxkj/')">创想空间</a></li></ul></li> <li class="col-lg-3 col-md-3 col-sm-3 col-xs-12 footer1129-li newsDataBoe"><div class="hidden-lg hidden-md hidden-sm footer1129-click"><a href="javascript:trackFn('footer-on','/about/')">关于我们</a><span class="glyphicon glyphicon-menu-down xs-tier-down yewei" style="display: block; line-height: 25px; text-align: center;"></span></div> <ul class="row list-unstyled footer1129-ul"><li class="footer1129-child"><a href="javascript:trackFn('footer-on','/about/')">关于BOE</a></li> <li class="footer1129-child"><a href="javascript:trackFn('footer-investor','/tzzgx/')">投资者关系</a></li><li class="footer1129-child"><a href="javascript:trackFn('footer-society','/about/shzr/')">企业社会责任</a></li></ul></li> <li class="col-lg-3 col-md-3 col-sm-3 col-xs-12 hidden-xs "><ul class="row list-unstyled"><li><a href="javascript:trackFn('footer-investor','/news/')">新闻中心</a></li> <li><a href="javascript:trackFn('footer-society','/dmtzx/boeshuo/')">BOE说</a></li></ul></li></ul>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-5 col-xs-12 footer-img-box footer1129-li">
+                        <div class="hidden-lg hidden-md hidden-sm footer1129-click"><a class="footer1130-a" href="javascript:void(0);">BOE应用中心</a><span class="glyphicon glyphicon-menu-down xs-tier-down yewei" style="display: block;line-height: 25px;text-align: center"></span></div>
+                        <ul class="row list-unstyled ewmImg footer1129-ul">
+                        <li class="col-lg-3 col-md-3 col-sm-3 hidden-sm hidden-xs">
+                            
+                        </li>
+                        <li class="col-lg-3 col-md-3 col-sm-4 col-xs-4 footer-erweima footer1129-child">
+                            <img class="hidden-xs" src="https://www.boe.com/html/boesite-lib/images/g1/index/qrcode1.png" alt="">
+                            <a class="hidden-lg hidden-md hidden-sm" id="boegw">
+                              <img src="https://www.boe.com/html/boesite-lib/images/g1/index/BOEgw.png" alt="">
+                            </a>
+                            <p class="text-center">BOE官网</p>
+                        </li>
+                        <li class="col-lg-3 col-md-3 col-sm-4 col-xs-4  footer-erweima footer1129-child">
+                            <img class="hidden-xs" src="https://www.boe.com/html/boesite-lib/images/g1/index/qrcode2.png" alt="">
+                            <a class="hidden-lg hidden-md hidden-sm" id="huaping">
+                              <img src="https://www.boe.com/html/boesite-lib/images/g1/index/hp.png" alt="">
+                            </a>
+                            <p class="text-center">画屏</p>
+                        </li>
+                        <li class="col-lg-3 col-md-3 col-sm-4 col-xs-4  footer-erweima footer1129-child">
+                            <img class="hidden-xs" src="https://www.boe.com/html/boesite-lib/images/g1/index/qrcode3.png" alt="">
+                            <a class="hidden-lg hidden-md hidden-sm" id="boehealth">
+                              <img src="https://www.boe.com/html/boesite-lib/images/g1/index/ydjk.png" alt="">
+                            </a>
+                            <p class="text-center">移动健康</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <ul class="row list-unstyled footer-lilst2 text-center">
+                <li class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                    <ul class="row list-unstyled list-inline footer-fl">
+                        <li><a href="javascript:trackFn('footer-map','/wzdt/')">网站地图</a></li>
+                        <li>|</li>
+                        <li><a href="javascript:trackFn('footer-privacy','/ystk/')" rel="nofollow">隐私条款</a></li>
+                        <li>|</li>
+                        <li><a href="javascript:trackFn('footer-deleted','/cmcx/')" rel="nofollow">除名查询</a></li>
+                        <li>|</li>
+                        <li><a data-toggle="modal" data-target="#footermyModal" href="javascript:trackFn('footer-fast','javascript:void(0);')">快速链接</a></li>
+                    </ul>
+                </li>
+                <li class="col-lg-4 col-md-4 col-sm-12 col-xs-12">Copyright©2018京东方科技集团股份有限公司 版权所有</li>
+                <li class="col-lg-5 col-md-5 col-sm-12 col-xs-12">京ICP证140608号.<a href="http://www.miibeian.gov.cn" target="_blank" rel="nofollow">京ICP备12041691号-2.</a><a href="http://gawa.bjchy.gov.cn/websearch/index.php" target="_blank" rel="nofollow">京公网安备11010502026582</a></li>
+            </ul>
+            <ul class="row list-unstyled footer-lilst2 text-center" style="margin-top: 5px;padding-top: 0px;border-top: 0px;">
+                <li class="col-lg-7 col-md-7 hidden-sm hidden-xs"></li>
+                <li class="col-lg-5 col-md-5 col-sm-12 col-xs-12"><a href="javascript:void(0)">互联网药品信息服务资格证书&nbsp;（京）-非经营性-2017-0039</a></li>
+            </ul>
+        </div>
+        <!--<a class="goTop" href="javascript:void(0);">回到顶部 <span><</span></a>-->
+    </div>
+    
+    <!--video Modal -->
+<div class="modal fade" id="footermyModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+            </div>
+            <div class="modal-body">
+            <div class="container products pctop pcbottom ">
+                <h3 class="two-size">快速链接</h3>
+            </div>
+
+            <ul class="list-unstyled text-left text-size">
+                <li>
+                    <a href="http://boe.co.jp/" target="_blank">京东方日本有限公司&gt;</a>
+                </li>
+                <li>
+                    <a href="http://www.ubpchina.com" target="_blank">恒通国际商务园&gt;</a>
+                </li>
+                <li>
+                    <a href="http://www.ucpchina.com" target="_blank">恒通国际创新园&gt;</a>
+                </li>
+                <li>
+                    <a href="http://www.oasishealth.cn/l-cn/index.html" target="_blank">北京明德医院&gt;</a>
+                </li>
+                <li>
+                    <a href="http://varitronix.com/" target="_blank">香港精电国际有限公司&gt;</a>
+                </li>
+                <li>
+                    <a href="javascript:void(0)">北京京东方真空电器有限责任公司&gt;</a>
+                </li>
+                <li>
+                    <a href="http://www.boezk.com/" target="_blank">北京京东方真空技术有限公司&gt;</a>
+                </li>
+                <li>
+                    <a href="http://www.boesemi.com/" target="_blank">北京京东方半导体有限公司&gt;</a>
+                </li>
+                <li>
+                    <a href="http://www.baebj.com/" target="_blank">北京北旭电子材料有限公司&gt;</a>
+                </li>
+                <li>
+                    <a href="http://bjnissin.com/" target="_blank">北京日伸电子精密部件有限公司&gt;</a>
+                </li>
+                <li>
+                    <a href="http://www.bjnt.com/" target="_blank">北京日端电子有限公司&gt;</a>
+                </li>
+            </ul>
+            </div>
+        </div>
+    </div>
+</div>
+</div></div>
+<!--fixed-->
+<div id="fixed" style="opacity: 1;"><div class="fixed" style="display: block; bottom: 120px;">
+    <!-- 点击对象 -->
+    <div class="content">
+        <!-- 回到顶部 -->
+        <div class="goTop" style="display: none;">
+            <a href="javascript:trackFn('index-gotop','javascript:void(0);')"></a>
+        </div>
+
+        <!-- 联系我们 -->
+        <div class="contact" data-toggle="" data-target="" style="display: block;">
+            <a href="javascript:trackFn('index-contact','javascript:void(0);')"></a>
+        </div>
+
+        <!-- 多媒体中心 -->
+        <div class="media">
+            <a href="javascript:trackFn('index-media','/dmtzx/')"></a>
+        </div>
+
+        <!-- 订阅公告 -->
+        <div class="subscription" data-toggle="" data-target="">
+            <a href="javascript:trackFn('index-subscription','javascript:void(0);')"></a>
+        </div>
+
+        <!-- 销售网络 -->
+        <div class="sales" data-toggle="modal" data-target="#sales">
+            <a href="javascript:trackFn('index-sales','javascript:void(0);')"></a>
+        </div>
+
+        <!-- 下载资料 -->
+        <!-- <div class="down"  data-toggle="modal" data-target="#download">
+            <a href="javascript:trackFn('index-xinhua-com','javascript:void(0);')"></a>
+        </div> -->
+
+        <!-- BOE商城 pc pad -->
+        <div class="mall hidden-xs" style="display: block;">
+            <a href="javascript:trackFn('index-mall','https://www.boemall.cn')"></a>
+        </div>
+      
+      	<!-- phone -->
+        <div class="mall hidden-lg hidden-md hidden-sm" style="display: block;">
+            <a href="javascript:trackFn('index-mall','https://www.boemall.cn')"></a>
+        </div>
+
+        <!-- 新华网 -->
+        <div class="xinhua-com">
+            <a href="javascript:trackFn('index-xinhua-com','http://www.bj.xinhuanet.com/bjwq/qywq1/boe2017/boe.html')"></a>
+        </div>
+		<!-- 招聘 -->
+        <div class="zhaopin">
+            <a href="javascript:trackFn('zhaopin','http://employchat.boe.com:8017/FS_WEB_CCS/mz_websocket.html')"></a>
+        </div>
+    </div>
+
+    <!-- 对应的项 -->
+    <div class="fixed-display text-center text-size" style="display: none;">
+
+
+        <!-- 首页 -->
+        <div class="contact" id="index" style="opacity: 0; display: block;">
+            <p><span>销售热线</span>：400-668-1000</p>
+            <p><span>邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱</span>：400@boe.com.cn</p>
+            <hr>
+            <p><span>校园招聘</span>：recruit@boe.com.cn</p>
+            <p><span>社会招聘</span>：zhaopin@boe.com.cn</p>
+            <hr>
+            <p><span>投资者咨询</span>：86-10-64318888 转 董事会秘书室</p>  
+            <p><span>邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱</span>：web.master@boe.com.cn</p>
+        </div>
+
+
+        <!-- 产品与服务--> 
+
+        <!--销售热线：400-668-1000 -->
+        <div class="contact text-center" id="product-service-page" style="opacity: 0; display: none;">
+            <p>销售热线</p>
+            <p>400-668-1000</p>
+        </div>
+
+        <!-- 创新科技点击联系我们后，浮现的窗口中的信息是一个： -->
+        <!-- BOE创客实验室  邮箱：chuangyizhengji@boe.com.cn -->
+        <div class="contact chongke" id="innovate-page" style="opacity: 0; display: none;">
+            <img src="https://www.boe.com/html/boesite-lib/images/g1/index/experiment.jpg" alt="">
+            <p class="three-size">BOE创客实验室</p>
+            <p class="contentText">
+                作为创想空间的运营和维护方，为鼓励创新、助力研发，京东方创客实验室面向全球创客进行创意的挖掘和孵化。经过多年探索和积累，京东方已成功挖掘和孵化出众多优秀的创意成果。京东方&nbsp;诚邀全球创客，参与创意孵化，共同推动科技创新。
+            </p>
+            <p>邮箱：chuangyizhengji@boe.com.cn</p>
+        </div>
+
+        <!-- 投资者关系点击联系我们后，浮现的窗口中的信息是一个： -->
+        <!-- 投资者咨询：86-10-64318888 转 董事会秘书室  邮箱：web.master@boe.com.cn -->
+        <div class="contact" id="investor-page" style="opacity: 0; display: none;">
+            <p><span>投资者咨询</span>：86-10-64318888 转 董事会秘书室</p>
+            <p><span>邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱</span>：web.master@boe.com.cn</p>
+        </div>
+
+        <!-- 加入我们点击联系我们后，浮现的窗口中的信息是一个： -->
+        <!-- 人力资源：86-10-64318888  邮箱：hr@boe.com.cn -->
+        <div class="contact text-center join-right-click" id="join-page" style="opacity: 0; display: none;">
+            <p>
+                关注“BOE招聘”官方微信及“BOE招聘”Linkedin主页<br>了解京东方招聘实时动态
+            </p>
+            <img src="https://www.boe.com/html/boesite-lib/images/g1/index/join-right01.png" alt="">
+            <img src="https://www.boe.com/html/boesite-lib/images/g1/index/join-right02.png" alt="">
+            <p>
+                发送您的简历至
+            </p>
+            <p>
+                <a href="javascript:void(0);">recruit@boe.com.cn</a> （校园招聘）
+            </p>
+            <p>
+                <a href="javascript:void(0);">zhaopin@boe.com.cn</a>（社会招聘）
+            </p>
+            <p>
+                并注明您申请的职位<br>我们期待您的加入
+            </p>
+        </div>
+
+        <!-- 新闻中心 -->
+        <div class="contact" id="news-center-page" style="opacity: 0; display: none;">
+            <p><span>人力资源</span>：86-10-67855688</p>
+            <p>邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：hr@boe.com.cn</p>
+        </div>
+
+        <!-- 关于我们 -->
+        <div class="contact" id="about-page" style="opacity: 0; display: none;">
+            <p><span>人力资源</span>：86-10-67855688</p>
+            <p>邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：hr@boe.com.cn</p>
+        </div>
+
+        <!-- 多媒体中心  -->
+        <div class="contact" id="media-center-page" style="opacity: 0; display: none;">
+            <p><span>人力资源</span>：86-10-67855688</p>
+            <p>邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：hr@boe.com.cn</p>
+        </div>
+
+        <!-- 订阅公告 -->
+        <div class="subscription pc-subscription" style="opacity: 0;">
+            <p>请在下方输入您的邮件地址，<br>订阅邮件以获取最新的公司公告</p>
+
+            <form onsubmit="return false">
+                <div class="input-group">
+                    <input type="email" placeholder="邮件地址" class="form-control" id="inputGroupSuccess3" aria-describedby="inputGroupSuccess3Status">
+                    <a href="javascript:trackFn('index-subscription-btn','javascript:void(0);')" class="input-group-addon">订阅</a>
+                </div>
+                <div class="checkbox">
+                    <label> 验证码：  </label>
+                    <input placeholder="验证码" class="varicode" id="varicode">
+               		<img class="verifyCode" id="verifyCode" src="">
+                </div>
+                <div class="checkbox">
+                   <!--  <label>
+                        <input type="checkbox"> 我同意共享个人信息
+                    </label> -->
+                </div>
+            </form>
+        </div>
+    </div>
+    
+        <!-- 下载资料弹层 -->
+	    <div class="modal fade" id="download" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	        <div class="modal-dialog" role="document">
+	            <div class="modal-content">
+	                <div class="modal-header">
+	                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+	                </div>
+	                <div class="modal-body text-size">
+	                    <h3 class="two-size">{{title}}</h3>
+	                    <ul class="list-unstyled">
+	                        <li v-for="v in todos">
+	                            <p>{{v.text}}</p>
+	                            <a :href="v.downLink" download="">下载</a>
+	                        </li>
+	                    </ul>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+        <!-- 订阅公告弹层-->
+    <div class="modal fade" id="subscription" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                </div>
+                <div class="modal-body text-size">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 联系我们弹层 -->
+    <div class="modal fade" id="xs-contact" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                </div>
+                <div class="modal-body">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+        
+        <!--销售网络弹层 -->
+<div class="modal fade" id="sales" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+            </div>
+            <div class="modal-body text-left text-size">
+                <h3 class="three-size">北京京东方营销有限公司</h3>
+              <p>地址：中国北京市北京经济技术开发区西环中路12号</p>
+              <p>邮政编码：100176</p>
+              <p>电话：+86-10-60965867</p>
+              <h3 class="three-size">北京分公司</h3>
+              <p>地址：中国北京市北京经济技术开发区西环中路12号</p>
+              <p>邮政编码：100176</p>
+              <p>电话：+86-10-60965867</p>
+              <h3 class="three-size">上海分公司</h3>
+              <p>地址：中国上海市闵行区吴中路1799号万象城D座6楼06室</p>
+              <p>邮政编码：201103</p>
+              <p>电话：+86-21-60292757</p>
+              <p>传真：+86-21-60292758</p>
+              <h3 class="three-size">深圳分公司</h3>
+              <p>地址：中国广东省深圳市南山区科苑南路3099号中国储能大厦37层</p>
+              <p>邮政编码：518052</p>
+              <p>电话：+86-755-82934491</p>
+              <p>传真：+86-755-83038990</p>
+              <h3 class="three-size">成都分公司</h3>
+              <p>地址：中国四川省成都市高新西区合作路1188号</p>
+              <p>邮政编码：611731</p>
+              <p>电话：+86-28-61771197</p>
+
+              <h3 class="three-size">京东方韩国有限公司</h3>
+              <p>地址：韩国京畿道城南市盆唐区菽内洞Hwangsaeul路 216 HUMAX Village 3层 301室</p>
+              <p>邮政编码：13595</p>
+              <p>电话：+82-31-778-8063</p>
+              <p>邮箱：boekorea@boe.com.cn</p>
+
+              <h3 class="three-size">台湾京东方有限公司</h3>
+              <p>地址：中国台湾台北市内湖区瑞光路392号7楼  </p>
+              <p>邮政编码：11492</p>
+              <p>电话：+886-2-8798-2828</p>
+              <p>邮箱：boetaiwan@boe.com.cn</p>
+
+              <h3 class="three-size">京东方日本有限公司</h3>
+              <p>地址：日本东京都港区港南2-16-1 品川East One Tower 4F  </p>
+              <p>邮政编码：1080075</p>
+              <p>电话：+81-(0)3-6712-3960</p>
+              <p>邮箱：boejapan@boe.com.cn</p>
+
+              <h3 class="three-size">京东方新加坡有限公司</h3>
+              <p>地址：新加坡淡马锡林荫大道8号新达城第三大厦#14-02A  </p>
+              <p>邮政编码：038988</p>
+              <p>电话：+65-6835-7295</p>
+              <p>邮箱：boesingapore@boe.com.cn</p>
+
+              <h3 class="three-size">京东方美国有限公司</h3>
+              <p>地址：美国加利福尼亚州圣克拉拉市米申学院大道2350号600室</p>
+              <p>邮政编码：95054</p>
+              <p>电话：+1 (408) 882-3447</p>
+              <p>邮箱：boeusa@boe.com.cn</p>
+
+              <h3 class="three-size">美国圣地亚哥办公室</h3>
+              <p>地址：美国加利福尼亚州圣地亚哥市拉霍亚村大道4660号1070室</p>
+              <p>邮政编码：92122</p>
+              <p>电话：+1 858-283-8775</p>
+
+              <h3 class="three-size">美国休斯顿办公室</h3>
+              <p>地址：美国德克萨斯州休斯顿市20329州际公路249号180室</p>
+              <p>邮政编码：77070</p>
+              <p>电话：+1 (408) 834-5652</p>
+
+              <h3 class="three-size">美国波士顿办公室</h3>
+              <p>地址：美国马萨诸塞州剑桥市剑桥公园大道55号105室</p>
+              <p>邮政编码：02142</p>
+
+              <h3 class="three-size">京东方欧洲有限公司</h3>
+              <p>地址：德国黑森州埃施波恩市根海姆大街6号</p>
+              <p>邮政编码：65760</p>
+              <p>电话：+49(0)-6196-5869-40</p>
+              <p>邮箱：boeeurope@boe.com.cn</p>
+
+              <h3 class="three-size">京东方印度有限公司</h3>
+              <p>地址：印度哈里亚纳邦古尔冈甘地路瓦提卡城市办公楼9楼902  </p>
+              <p>邮政编码：122002</p>
+              <p>电话：+91-124-406-6047</p>
+              <p>邮箱：boeindia@boe.com.cn</p>
+
+              <h3 class="three-size">京东方巴西咨询服务有限责任公司</h3>
+              <p>地址：巴西圣保罗市维拉奥林匹亚区奥林匹克公园大厦第51号戈麦斯德卡瓦略路1329号 </p>
+              <p>邮政编码：04547-005</p>
+              <p>电话：+55 11 3842-2240</p>
+              <p>邮箱：boebrazil@boe.com.cn</p>
+
+              <h3 class="three-size">京东方俄罗斯有限责任公司</h3>
+              <p>地址：俄罗斯联邦莫斯科州克拉斯诺郭尔斯基区普济尔科沃工业园区格林伍德办公园区7号楼110室楼110室</p>
+              <p>邮政编码：143441</p>
+              <p>电话：+7 495 9953707</p>
+              <p>邮箱：boerussia@boe.com.cn</p>
+
+              <h3 class="three-size">京东方中东有限责任公司</h3>
+              <p>地址：阿联酋迪拜朱美拉湖塔朱美拉商业中心1，3502</p>
+              <p>邮政编码：113318</p>
+              <p>电话：+971-48745411</p>
+              <p>邮箱：boemiddleeast@boe.com.cn</p>
+              
+              <h3 class="three-size">京东方英国有限公司</h3>
+              <p>地址：英国伦敦伯晨巷20号伯晨阁</p>
+              <p>邮政编码：EC3V 9DU</p>
+              <p>电话：+44（0）37519541</p>
+              <p>邮箱：boeuk@boe.com.cn</p>
+              
+              <h3 class="three-size">京东方南非有限公司</h3>
+              <p>地址：南非豪登省约翰内斯堡市桑顿区莫宁赛德39号小区瑞弗尼亚路159号中钢大厦7B1室</p>
+              <p>邮政编码：2146</p>
+              <p>邮箱：boesouthafrica@boe.com.cn</p>
+              
+              <h3 class="three-size">京东方印度尼西亚有限公司</h3>
+              <p>地址：印度尼西亚雅加达市麦卡库宁冈地区5.5-5.6区，伊达阿奈克阿贡格德阿贡大街，Menara BTPN 38层</p>
+              <p>邮政编码：12950</p>
+              <p>电话：+6221-2521823</p>
+              <p>邮箱：boeindonesia@boe.com.cn</p>
+              
+              
+
+            </div>
+        </div>
+    </div>
+</div>
+    
+</div></div>
+
+<!--===========library============-->
+<script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script src="https://hm.baidu.com/hm.js?4ea4fc530ed4220278c643746a5a71bf"></script><script src="https://www.boe.com/html/boesite-lib/library/jQuery.2.4.1.min.js"></script>
+<script src="https://www.boe.com/html/boesite-lib/library/bootstrap.min.js"></script>
+<script src="https://www.boe.com/html/boesite-lib/library/jquery.mobile.custom.min.js"></script>
+<script src="https://www.boe.com/html/boesite-lib/library/vue.min.js"></script>
+<!--公用-->
+<script src="https://www.boe.com/html/boesite-lib/js/common/common.js"></script>
+<!--监测-->
+<script src="https://www.boe.com/html/boesite-lib/js/common/track.js"></script>
+
+<!--头部导航及页尾数据-->
+<script src="https://www.boe.com/html/boesite-lib/js/common/headerData.js"></script>
+<script src="https://www.boe.com/html/boesite-lib/js/common/footerData.js"></script>
+
+<!--页面逻辑-->
+<script src="https://www.boe.com/html/boesite-lib/js/common/404.logic.js"></script>
+
+<script src="https://www.boe.com/html/boesite-lib/_scripts/constants.js" type="text/javascript"></script>
+
+<input type="hidden" id="instance_id" value="2680"><div class="include_template"><div id="data_base_id" style="display:none;">window.data_base={"category":null,"createTime":"2019-11-20 18:37:36","id":2599,"instanceId":2680,"mainContent":null,"miniatureUrl":null,"newsSource":null,"subTitle":null,"summary":null,"templateCode":"404yemian","title":"404页面"};</div></div>	</body><html>
